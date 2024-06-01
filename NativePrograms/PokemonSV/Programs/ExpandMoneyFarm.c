@@ -3,7 +3,7 @@
 #include "NativePrograms/NintendoSwitch/Libraries/FrameworkSettings.h"
 #include "NativePrograms/NintendoSwitch/Libraries/NintendoSwitch_Device.h"
 #include "NativePrograms/NintendoSwitch/Libraries/NintendoSwitch_PushButtons.h"
-#include "NativePrograms/NintendoSwitch/Programs/CustomProgram.h"
+#include "NativePrograms/NintendoSwitch/Programs/ExpandMoneyFarm.h"
 #include "NativePrograms/PokemonSwSh/Libraries/PokemonSwSh_Settings.h"
 
 
