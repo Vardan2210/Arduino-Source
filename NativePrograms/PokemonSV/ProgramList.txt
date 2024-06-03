@@ -3,6 +3,7 @@
 MassRelease
 MassPurchase
 RoamingGimmighoulFarmer
+ExpandMoneyFarm
 
 ---- Glitches ----
 ItemDupe
